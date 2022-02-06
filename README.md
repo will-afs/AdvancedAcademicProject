@@ -37,7 +37,7 @@ This project is an aggregate of different programs :
 - [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/CooldownManager.png" width="30"> CooldownManager](https://github.com/will-afs/CooldownManager)
 - [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/OntologyMaker.png" width="30"> OntologyMaker](https://github.com/will-afs/OntologyMaker)
 
-These subprojects can be integrated as follows :
+They can be integrated as follows :
 
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/Deployment%20architecture.JPG" width="700">
 
