@@ -8,34 +8,35 @@ Main steps
 A complete overview presentation of this project can be found [👉 here 👈]()
 
 The project can be summed up in 4 main steps:
+
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/Main%20steps.JPG" width="700">
 
 
-Step 1:
+**Step 1**
 
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/Step%201.JPG" width="700">
 
-Step 2:
+**Step 2**
 
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/Step%202.JPG" width="700">
 
-Step 3:
+**Step 3**
 
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/Step%203.JPG" width="700">
 
-Step 4:
+**Step 4**
 
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/Step%204.JPG" width="700">
 
 Subprojects and integration
 ---------------------------
 This project is an aggregate of different subprojects :
-- (step 1) [🤖 ArXivParser](https://github.com/will-afs/ArXivParser)
-- (step 2) [⛏️ PDFExtractor](https://github.com/will-afs/PDFExtractor)
-- (steps 1 & 2) [⌛ CooldownManager](https://github.com/will-afs/CooldownManager)
-- (step 3) [🧠 OntologyMaker](https://github.com/will-afs/OntologyMaker)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/ArXivParser.png" width="30"> ArXivParser](https://github.com/will-afs/ArXivParser)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/PDFExtractor.png" width="30"> PDFExtractor](https://github.com/will-afs/PDFExtractor)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/CooldownManager.png" width="30"> CooldownManager](https://github.com/will-afs/CooldownManager)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/OntologyMaker.png" width="30"> OntologyMaker](https://github.com/will-afs/OntologyMaker)
 
-These subprojects integrate as follows :
+These subprojects can be integrated as follows :
 
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/Deployment%20architecture.JPG" width="700">
 
