@@ -31,9 +31,9 @@ The project can be summed up in 4 main steps:
 
 Subprojects and integration
 ---------------------------
-This project is an aggregate of different subprojects :
-- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/ArXivParser.png" width="30"> ArXivParser](https://github.com/will-afs/ArXivParser)
-- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/PDFExtractor.png" width="30"> PDFExtractor](https://github.com/will-afs/PDFExtractor)
+This project is an aggregate of different programs :
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/ArXivParser.png" width="30"> ArXivParser](https://github.com/will-afs/ArXivPDFExtractor/src/ArXivParser)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/PDFExtractor.png" width="30"> PDFExtractor](https://github.com/will-afs/ArXivPDFExtractor/src/PDFExtractor)
 - [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/CooldownManager.png" width="30"> CooldownManager](https://github.com/will-afs/CooldownManager)
 - [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/OntologyMaker.png" width="30"> OntologyMaker](https://github.com/will-afs/OntologyMaker)
 
