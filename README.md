@@ -1,6 +1,6 @@
 # 📚 🛠️ AdvancedAcademicProject overview
 
-**Use case**: visualize relations between individuals of a scientific community through knowledge graphs
+Visualize relations between individuals of a scientific community through knowledge graphs
 
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Graph%20visualization.JPG" width="700">
 
