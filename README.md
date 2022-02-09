@@ -6,7 +6,6 @@
 
 Main steps
 ----------
-A complete overview presentation of this project can be found [👉 here 👈]()
 
 The project can be summed up in 4 main steps:
 
