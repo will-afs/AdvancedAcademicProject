@@ -2,6 +2,8 @@
 
 Visualize relations between individuals of a community through knowledge graphs
 
+An exemple of knowledge graph :
+
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Graph%20visualization.JPG" width="700">
 
 Main steps
