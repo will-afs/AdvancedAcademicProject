@@ -1,4 +1,4 @@
-# 📚 🛠️ AdvancedAcademicProject overview
+# <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Icons/Networking.png" width="30"> AdvancedAcademicProject overview
 
 Visualize relations between individuals of a community through knowledge graphs
 
