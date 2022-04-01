@@ -11,7 +11,7 @@ Main steps
 
 The project can be summed up in 4 main steps:
 
-<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Main%20steps.JPG" width="700">
+<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Main%20steps%20of%20the%20project.JPG" width="700">
 
 
 **Step 1**
@@ -33,7 +33,8 @@ The project can be summed up in 4 main steps:
 Subprojects and integration
 ---------------------------
 This project is an aggregate of different programs :
-- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/ArXivParser.png" width="30">  <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/PDFExtractor.png" width="30"> ArXivPDFExtractor](https://github.com/will-afs/ArXivPDFExtractor/)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/ArXivParser.png" width="30"> ArXivParser](https://github.com/will-afs/ArXivPDFExtractor)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/pickaxe.png" width="30"> PDFExtractor](https://github.com/will-afs/PDFExtractor)
 - [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/CooldownManager.png" width="30"> CooldownManager](https://github.com/will-afs/CooldownManager)
 - [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/OntologyMaker.png" width="30"> OntologyMaker](https://github.com/will-afs/OntologyMaker)
 
