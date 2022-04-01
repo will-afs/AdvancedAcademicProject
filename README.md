@@ -10,12 +10,12 @@ Subprojects and integration
 ---------------------------
 
 This project is an aggregate of different programs - an overview of the functionning of the whole system is given below, but the installation, tests, and deployment procedures of each one of these subprojects are described in their respectives README.md :
-- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/ArXivParser.png" width="30"> ArXivParser](https://github.com/will-afs/ArXivPDFExtractor)
-- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/pickaxe.png" width="30"> PDFExtractor](https://github.com/will-afs/PDFExtractor)
-- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/CooldownManager.png" width="30"> CooldownManager](https://github.com/will-afs/CooldownManager)
-- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/OntologyMaker.png" width="30"> OntologyMaker](https://github.com/will-afs/OntologyMaker)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Icons/ArXivParser.png" width="30"> ArXivParser](https://github.com/will-afs/ArXivPDFExtractor)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Icons/PDFExtractor.png" width="30"> PDFExtractor](https://github.com/will-afs/PDFExtractor)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Icons/CooldownManager.png" width="30"> CooldownManager](https://github.com/will-afs/CooldownManager)
+- [<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Icons/OntologyMaker.png" width="30"> OntologyMaker](https://github.com/will-afs/OntologyMaker)
 
-They can be integrated as follows :
+These subprograms can be integrated as follows :
 
 <img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Deployment%20architecture/Deployment%20architecture.JPG" width="700">
 
@@ -37,7 +37,7 @@ The project can be summed up in 4 main steps:
 
 **Step 4**
 
-<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Step%204.JPG" width="700">
+<img src="https://github.com/will-afs/AdvancedAcademicProject/blob/main/doc/Steps/Step%204%20-%20Visualize%20Knowledge%20Graphs.JPG" width="700">
 
 
 Installing Redis
